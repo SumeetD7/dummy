@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: 4
+  m_EditorClassIdentifier: 
+  m_GroupName: 4
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5936ebabaaf522b4f88648650147eb02
+  m_SerializeEntries:
+  - m_GUID: 7eaa89b01511caa4fb412b3def322446
+    m_Address: Assets/Project/Prefabs/SinglePrefabs/Photoframe.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - singular
+    m_MainAsset: {fileID: 8448143027222340548, guid: 7eaa89b01511caa4fb412b3def322446,
+      type: 3}
+    m_TargetAsset: {fileID: 8448143027222340548, guid: 7eaa89b01511caa4fb412b3def322446,
+      type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5fc037353776567409e85c20f6c801fb, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e0d91acbfc7202241a14cce06902d7fc, type: 2}
+    - {fileID: 11400000, guid: c25746a02799902418d26669d6f923d6, type: 2}

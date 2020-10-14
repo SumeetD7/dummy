@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: RemoteTest
+  m_EditorClassIdentifier: 
+  m_GroupName: RemoteTest
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b8dd4821caa66014ebe1cb075fe8ecb6
+  m_SerializeEntries:
+  - m_GUID: 30f07ff02f4050548beed6d8f500bd51
+    m_Address: Assets/Project/Prefabs/FinalPrefabs/colin_circle.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - RemoteColinCircle
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 81054f33c6f75574c807521a463665ee
+    m_Address: Assets/Project/Prefabs/UIManager/ResetAndRotate.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - RemUIManager
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 55d661d5a905a934490545504d2ef7b5
+    m_Address: Assets/Project/Prefabs/UIManager/Select Object.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - RemUIManager
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 86384677dd7551845bcaab09c634847d
+    m_Address: Assets/Project/Prefabs/UIManager/Tap To Change.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - RemUIManager
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ed6453d4fe5e9d347a6db08aa2f65d6d
+    m_Address: Assets/Project/Prefabs/UIManager/Tap To Place.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - RemUIManager
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 78f9565c501bfd7439007e91fa967ff8
+    m_Address: Assets/Project/Prefabs/UIManager/Tap To Start.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - RemUIManager
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5fc037353776567409e85c20f6c801fb, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 98cb0a4f363451941bb8db75ecf64912, type: 2}
+    - {fileID: 11400000, guid: 2c94d4bf0a185b644bfa5bed885d93dc, type: 2}
